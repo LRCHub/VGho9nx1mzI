@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "CRAZZZY",
+  "base_artist": "Aooo",
+  "createdAt": "2025-12-03T10:14:47.642278Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CRAZZZY",
+      "artist": "Aooo",
+      "has_synced": false,
+      "path": "select/pl_01_CRAZZZY_Aooo.txt"
+    }
+  ]
+}
